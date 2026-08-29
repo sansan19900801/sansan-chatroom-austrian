@@ -1,6 +1,7 @@
 ---
 name: sansan-chatroom-austrian
 description: 奥派经济学专题聊天室。由哈耶克、米塞斯分别从「知识分散性」和「人类行为学」两个固定视角分析同一个问题，主持人收口把关。用户要求用奥派、奥地利学派、自由市场视角分析，或点名哈耶克、米塞斯讨论商业、经济、政策、组织问题时使用。
+version: 1.0.1
 ---
 
 # sansan-chatroom-austrian：奥派经济聊天室
@@ -159,3 +160,10 @@ description: 奥派经济学专题聊天室。由哈耶克、米塞斯分别从�
 ---
 
 完成当前任务后直接结束。
+
+## 作者与支持
+
+- 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
+- 如需加入付费答疑群，可扫码或打开[答疑群说明](https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw)
+
+![付费答疑群二维码](https://raw.githubusercontent.com/sansan19900801/sansan-chatroom-austrian/main/assets/support-qr.jpg)
