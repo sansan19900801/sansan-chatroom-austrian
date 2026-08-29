@@ -77,9 +77,12 @@ sansan-chatroom-austrian/
 | sansan-deconstruct | 拆模糊概念的定义与边界 |
 | sansan-spread | 分析内容传播与受众共鸣 |
 
-## 作者
+## 作者与支持
 
-作者：[@sansan19900801](https://github.com/sansan19900801)
+- 作者：sansan（[GitHub 主页](https://github.com/sansan19900801)）
+- 使用问题 / 进答疑群：扫码，或打开《答疑群说明》 https://mp.weixin.qq.com/s/3wporFEz1cGNWslmZsgPKw
+
+![答疑群二维码](assets/support-qr.jpg)
 
 ## License
 
